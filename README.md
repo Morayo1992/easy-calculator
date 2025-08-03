@@ -1,2 +1,2 @@
 # easy-calculator
-my python assignment
+"add calculator script"
